@@ -48,7 +48,9 @@ This project is deployed on Vercel. Simply push your code to the GitHub repo and
 Abhay Singh
 
 🔗 Portfolio -https://3-d-portfolio-tan-nu.vercel.app/
+
 📧 abhaysingh03032002@gmail.com
+
 📞 +91-9123401266
 
 ⭐ Show Your Support
